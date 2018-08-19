@@ -23,6 +23,6 @@
  
  9)yad2k.models.keras_yolo
 
-As a sample input i have provided test.jpg file which is normal road side view and output of that image is test_out.jpg which contain all car images in a bounding box.
+As a sample input i have provided test.jpg file which is normal road side view and output of that image is test_output.jpg which contain all car images in a bounding box.
 
 Thank you.
